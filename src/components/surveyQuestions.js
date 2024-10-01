@@ -11,8 +11,8 @@ export const questions = [
 	  id: "Qco0",
 	  text: "Allez-vous monter dans un train?",
 	  options: [
-		{ id: 1, text: "OUI", next: "QNV1" },
-		{ id: 2, text: "NON", next: "QP1" },
+		{ id: 1, text: "OUI", next: "QP1" },
+		{ id: 2, text: "NON", next: "QNV1" },
 	  ],
 	},
 	{
